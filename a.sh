@@ -1,8 +1,8 @@
 #! /bin/bash
 #SBATCH --partition=gpu
-#SBATCH --output=slurm_logs/slurm-%A-%a.out
-#SBATCH --error=slurm_logs/slurm-%A-%a.err
-#SBATCH --job-name=jz-glue
+#SBATCH --output=slurm-%A-%a.out
+#SBATCH --error=slurm-%A-%a.err
+#SBATCH --job-name=shiqi
 #SBATCH --gres=gpu:a40:1
 #SBATCH --mem=30g
 #SBATCH --cpus-per-task=4
