@@ -79,7 +79,7 @@ def method(data,dataset_name,method):
         _id=str(i)
         #a=512-(200+len(row[4].split()))
         #doc=' '.join(row[3].split( )[0:a])
-        doc=row[3]
+        doc=row[3][0:512]
 
         res=1
         if method=='direct':
