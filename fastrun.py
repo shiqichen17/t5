@@ -77,8 +77,9 @@ def method(data,dataset_name,method):
 
     for i,row in data.iterrows():
         _id=str(i)
-        a=512-(200+len(row[4].split()))
-        doc=' '.join(row[3].split( )[0:a])
+        #a=512-(200+len(row[4].split()))
+        #doc=' '.join(row[3].split( )[0:a])
+        doc=row[3]
 
         res=1
         if method=='direct':
