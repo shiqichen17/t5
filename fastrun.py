@@ -77,10 +77,9 @@ def method(data,dataset_name,method):
 
     for i,row in data.iterrows():
         _id=str(i)
-        #a=512-(200+len(row[4].split()))
-        #doc=' '.join(row[3].split( )[0:a])
-        doc=row[3][0:512]
-
+        # a=512-(200+len(row[4].split()))
+        # doc=' '.join(row[3].split( )[0:a])
+        doc=' '.join(row[3].split( )[0:512])
         res=1
         if method=='direct':
             a="Document: "+doc+"\n\nQ: Can the following statement be inferred from the above document? Yes or No?\n"+ row[4]+"\n\nA:"
