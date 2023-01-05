@@ -194,9 +194,9 @@ def print_saveresult(data,data_name,result):
         print('Old'+str(compute_accuracy(data[~data['model_name'].isin (['BART','Pegasus','PegasusDynamic','T5','GPT2'])], result)))
         print('---summeval---')
     time_=time.strftime("%Y-%m-%d-%H_%M_%S",time.localtime(time.time()))
-    if not os.path.exists('new_result1'):
-        os.makedirs('new_result1') 
-    output='new_result1/'+time_+'_'+str(len(data))+'.csv'
+    if not os.path.exists('new_result3'):
+        os.makedirs('new_result3') 
+    output='new_result3/'+time_+'_'+str(len(data))+'.csv'
     save_exp(data, result, output)
 
 def save_exp(data, result, output):
@@ -243,9 +243,9 @@ def do(data,data_name):
 
 if __name__ =='__main__':
     time_=time.strftime("%Y-%m-%d-%H-%M-%S",time.localtime(time.time()))
-    if not os.path.exists('new_result1'):
-        os.makedirs('new_result1')
-    make_print_to_file(path='new_result1/')
+    if not os.path.exists('new_result3'):
+        os.makedirs('new_result3')
+    make_print_to_file(path='new_result3/')
     args=parse_args()
     data_name=args.data
     data=pd.read_csv('ori_data/aggre_fact_final.csv')
