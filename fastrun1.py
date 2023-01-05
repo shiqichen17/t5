@@ -93,7 +93,7 @@ def method(data,dataset_name,method):
             #print(a)
 
         input_ids = tokenizer(a, return_tensors="pt").input_ids.to("cuda")
-        outputs = model.generate(input_ids,max_new_tokens=max_new_tokens)
+        outputs = model.generate(input_ids,max_new_tokens=max_new_tokens,do_sample=True,temperature=0.1)
         #print(tokenizer.decode(outputs[0]))
         generate=tokenizer.decode(outputs[0])
         if method=='direct' or method=='twoshot_direct' or method=='sbs' or method=='twoshot_sbs':
@@ -194,8 +194,8 @@ def save_exp(data, result, output):
     df = pd.DataFrame(data=save)
     df.to_csv(output)
 def do(data,data_name):
-    result=method(data,data_name,'direct')
-    print_saveresult(data,data_name,result)
+    # result=method(data,data_name,'direct')
+    # print_saveresult(data,data_name,result)
     result=method(data,data_name,'cot')
     print_saveresult(data,data_name,result)
     if data_name=='SummEval':    
