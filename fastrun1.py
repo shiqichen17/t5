@@ -15,6 +15,7 @@ from tenacity import (
     wait_random_exponential,
 )
 from collections import OrderedDict
+summeval_2shotsbs="Document: Paul Merson has restarted his row with Andros Townsend after the Tottenham midfielder was brought on with only seven minutes remaining in his team's 0-0 draw with Burnley on Sunday. 'Just been watching the game, did you miss the coach? #RubberDub #7minutes,' Merson put on Twitter. Merson initially angered Townsend for writing in his Sky Sports column that 'if Andros Townsend can get in (the England team) then it opens it up to anybody.' Paul Merson had another dig at Andros Townsend after his appearance for Tottenham against Burnley . Townsend was brought on in the 83rd minute for Tottenham as they drew 0-0 against Burnley . Andros Townsend scores England's equaliser in their 1-1 friendly draw with Italy in Turin on Tuesday night . The former Arsenal man was proven wrong when Townsend hit a stunning equaliser for England against Italy and he duly admitted his mistake. 'It's not as though I was watching hoping he wouldn't score for England, I'm genuinely pleased for him and fair play to him – it was a great goal,' Merson said. 'It's just a matter of opinion, and my opinion was that he got pulled off after half an hour at Manchester United in front of Roy Hodgson, so he shouldn't have been in the squad. 'When I'm wrong, I hold my hands up. I don't have a problem with doing that - I'll always be the first to admit when I'm wrong.' Townsend hit back at Merson on Twitter after scoring for England against Italy . Sky Sports pundit  Merson (centre) criticised Townsend's call-up to the England squad last week . Townsend hit back at Merson after netting for England in Turin on Wednesday, saying 'Not bad for a player that should be 'nowhere near the squad' ay @PaulMerse?' Any bad feeling between the pair seemed to have passed but Merson was unable to resist having another dig at Townsend after Tottenham drew at Turf Moor.\n\nQ: Can the following statements be inferred from the above document? Yes or No?\n1. Andros Townsend scored for England against Italy on Wednesday . \n2. Paul Merson criticised Townsend's call-up to the England squad . \n3. Merson said Townsend should not have been in Roy Hodgson's squad . \n4. Townsend hit back at Merson on Twitter after scoring for England . \n\nA: 1. No, the document states it' s on Tuesday night. \n2. Yes.\n3. Yes.\n4. Yes.\n\nDocument: Paul Merson has restarted his row with Andros Townsend after the Tottenham midfielder was brought on with only seven minutes remaining in his team's 0-0 draw with Burnley on Sunday. 'Just been watching the game, did you miss the coach? #RubberDub #7minutes,' Merson put on Twitter. Merson initially angered Townsend for writing in his Sky Sports column that 'if Andros Townsend can get in (the England team) then it opens it up to anybody.' Paul Merson had another dig at Andros Townsend after his appearance for Tottenham against Burnley . Townsend was brought on in the 83rd minute for Tottenham as they drew 0-0 against Burnley . Andros Townsend scores England's equaliser in their 1-1 friendly draw with Italy in Turin on Tuesday night . The former Arsenal man was proven wrong when Townsend hit a stunning equaliser for England against Italy and he duly admitted his mistake. 'It's not as though I was watching hoping he wouldn't score for England, I'm genuinely pleased for him and fair play to him – it was a great goal,' Merson said. 'It's just a matter of opinion, and my opinion was that he got pulled off after half an hour at Manchester United in front of Roy Hodgson, so he shouldn't have been in the squad. 'When I'm wrong, I hold my hands up. I don't have a problem with doing that - I'll always be the first to admit when I'm wrong.' Townsend hit back at Merson on Twitter after scoring for England against Italy . Sky Sports pundit  Merson (centre) criticised Townsend's call-up to the England squad last week . Townsend hit back at Merson after netting for England in Turin on Wednesday, saying 'Not bad for a player that should be 'nowhere near the squad' ay @PaulMerse?' Any bad feeling between the pair seemed to have passed but Merson was unable to resist having another dig at Townsend after Tottenham drew at Turf Moor.\n\nQ: Can the following statements be inferred from the above document? Yes or No?\n1. paul merson has restarted his row with andros townsend after the tottenham midfielder was brought on with only seven minutes remaining in his team 's 0-0 draw with burnley on sunday . \n2. ' paul merson had another dig at andros townsend after his appearance for tottenham against burnley .\n3. townsend was brought on in the 83rd minute for tottenham as they drew 0-0 against burnley .\n\nA: 1. Yes.\n2. Yes.\n3. Yes."
 
 def parse_args():
     parse=argparse.ArgumentParser()
@@ -91,6 +92,16 @@ def method(data,dataset_name,method):
             a+="\nA: 1."
             #print(a)
             #print(a)
+        elif method=='twoshot_sbs':
+            a=summeval_2shotsbs
+            sumsentence=sentence_seg(row[4])
+            a+="\n\nDocument: "+doc+"\n\n"
+            a+="Q: Can the following statement be inferred from the above document? Yes or No?\n"
+            for j in range(len(sumsentence)):
+                b=str(j+1)+". "+sumsentence[j]+"\n"
+                a+=b
+            a+="\nA: 1."
+            #print(a)
 
         input_ids = tokenizer(a, return_tensors="pt").input_ids.to("cuda")
         outputs = model.generate(input_ids,max_new_tokens=max_new_tokens,do_sample=True,temperature=0.7)
@@ -165,9 +176,9 @@ def print_saveresult(data,data_name,result):
         print('Old'+str(compute_accuracy(data[~data['model_name'].isin (['BART','Pegasus','PegasusDynamic','T5','GPT2'])], result)))
         print('---summeval---')
     time_=time.strftime("%Y-%m-%d-%H_%M_%S",time.localtime(time.time()))
-    if not os.path.exists('new_result2'):
-        os.makedirs('new_result2') 
-    output='new_result2/'+time_+'_'+str(len(data))+'.csv'
+    if not os.path.exists('new_result3'):
+        os.makedirs('new_result3') 
+    output='new_result3/'+time_+'_'+str(len(data))+'.csv'
     save_exp(data, result, output)
 
 def save_exp(data, result, output):
@@ -196,10 +207,12 @@ def save_exp(data, result, output):
 def do(data,data_name):
     # result=method(data,data_name,'direct')
     # print_saveresult(data,data_name,result)
-    result=method(data,data_name,'cot')
-    print_saveresult(data,data_name,result)
+    # result=method(data,data_name,'cot')
+    # print_saveresult(data,data_name,result)
     if data_name=='SummEval':    
         result=method(data,data_name,'sbs')
+        print_saveresult(data,data_name,result)
+        result=method(data,data_name,'twoshot_sbs')
         print_saveresult(data,data_name,result)
         
 
@@ -208,9 +221,9 @@ def do(data,data_name):
 
 if __name__ =='__main__':
     time_=time.strftime("%Y-%m-%d-%H-%M-%S",time.localtime(time.time()))
-    if not os.path.exists('new_result2'):
-        os.makedirs('new_result2')
-    make_print_to_file(path='new_result2/')
+    if not os.path.exists('new_result3'):
+        os.makedirs('new_result3')
+    make_print_to_file(path='new_result3/')
     args=parse_args()
     data_name=args.data
     data=pd.read_csv('ori_data/aggre_fact_final.csv')
