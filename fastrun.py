@@ -130,21 +130,21 @@ def method(data,dataset_name,method):
 
         input_ids = tokenizer(a, return_tensors="pt").input_ids.to("cuda")
         outputs = model.generate(input_ids,max_new_tokens=max_new_tokens)
-        # print(tokenizer.decode(outputs[0]))
+        print(tokenizer.decode(outputs[0]))
         generate=tokenizer.decode(outputs[0])
         if method=='direct' or method=='twoshot_direct' or method=='sbs' or method=='twoshot_sbs':
             res=max(0,res-('No' in generate))
         elif method=='cot' or method=='twoshot_cot':
             res=max(0,res-('2. No' in generate))
         
-        # if res==row[6]==1:
-        #     print("TP")
-        # elif res==row[6]==0:
-        #     print("TN")
-        # elif res==1 and row[6]==0:
-        #     print("FP")
-        # else:
-        #     print('FN')
+        if res==row[6]==1:
+            print("TP")
+        elif res==row[6]==0:
+            print("TN")
+        elif res==1 and row[6]==0:
+            print("FP")
+        else:
+            print('FN')
         result[_id] = {'pred': res, 'raw': generate, 'prompt': a}
 
     return result
