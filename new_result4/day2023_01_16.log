@@ -1,0 +1,4404 @@
+***********************day2023_01_16************************
+XsumFaith 853
+***********************day2023_01_16************************
+SummEval 798
+***********************day2023_01_16************************
+XsumFaith 853
+<pad> yes</s>
+TP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+FP
+<pad> no</s>
+TP
+***********************day2023_01_16************************
+SummEval 798
+***********************day2023_01_16************************
+XsumFaith 853
+<pad> yes</s>
+***********************day2023_01_16************************
+Xsum-Sota 200
+<pad> yes</s>
+***********************day2023_01_16************************
+SummEval 798
+***********************day2023_01_16************************
+XsumFaith 853
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> Yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+FN
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+FN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> Yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> It's impossible to say</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> It's impossible to say</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> Yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> No</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+FN
+<pad> no</s>
+TN
+ALL{'class 1': 0.4666666666666667, 'class 0': 0.7994955863808323, 'true num': 60, 'false num': 793, 'balanced': 0.6330811265237495}
+---xsumfaith---
+Former{'class 1': 0.5806451612903226, 'class 0': 0.7091836734693877, 'true num': 31, 'false num': 392, 'balanced': 0.6449144173798551}
+Old{'class 1': 0.3448275862068966, 'class 0': 0.8877805486284289, 'true num': 29, 'false num': 401, 'balanced': 0.6163040674176627}
+---xsumfaith---
+save results to new_result4/2023-01-16-05_56_13_853.csv
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+ALL{'class 1': 0.25, 'class 0': 0.9205548549810845, 'true num': 60, 'false num': 793, 'balanced': 0.5852774274905422}
+---xsumfaith---
+Former{'class 1': 0.3225806451612903, 'class 0': 0.8673469387755102, 'true num': 31, 'false num': 392, 'balanced': 0.5949637919684002}
+Old{'class 1': 0.1724137931034483, 'class 0': 0.972568578553616, 'true num': 29, 'false num': 401, 'balanced': 0.5724911858285322}
+---xsumfaith---
+save results to new_result4/2023-01-16-06_31_17_853.csv
+***********************day2023_01_16************************
+Xsum-Sota 200
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+FN
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+FN
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> No</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+FN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> It's impossible to say</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+FN
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+<pad> no</s>
+TN
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> yes</s>
+FP
+<pad> yes</s>
+TP
+<pad> no</s>
+TN
+ALL{'class 1': 0.9550561797752809, 'class 0': 0.4144144144144144, 'true num': 89, 'false num': 111, 'balanced': 0.6847352970948477}
+---xsumsota---
+Wang20{'class 1': None, 'class 0': None, 'true num': 0, 'false num': 0, 'balanced': None}
+Cao22{'class 1': None, 'class 0': None, 'true num': 0, 'false num': 0, 'balanced': None}
+CLIFF{'class 1': 0.9558823529411765, 'class 0': 0.3780487804878049, 'true num': 68, 'false num': 82, 'balanced': 0.6669655667144907}
+Goyal21{'class 1': 0.9523809523809523, 'class 0': 0.5172413793103449, 'true num': 21, 'false num': 29, 'balanced': 0.7348111658456487}
+---xsumsota---
+save results to new_result4/2023-01-16-06_33_26_200.csv
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+FN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+FN
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> No</s>
+TN
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+<pad> Yes</s>
+FP
+<pad> No</s>
+FN
+<pad> Yes</s>
+FP
+<pad> Yes</s>
+TP
+<pad> No</s>
+TN
+ALL{'class 1': 0.7752808988764045, 'class 0': 0.7387387387387387, 'true num': 89, 'false num': 111, 'balanced': 0.7570098188075716}
+---xsumsota---
+Wang20{'class 1': None, 'class 0': None, 'true num': 0, 'false num': 0, 'balanced': None}
+Cao22{'class 1': None, 'class 0': None, 'true num': 0, 'false num': 0, 'balanced': None}
+CLIFF{'class 1': 0.8088235294117647, 'class 0': 0.7195121951219512, 'true num': 68, 'false num': 82, 'balanced': 0.764167862266858}
+Goyal21{'class 1': 0.6666666666666666, 'class 0': 0.7931034482758621, 'true num': 21, 'false num': 29, 'balanced': 0.7298850574712643}
+---xsumsota---
+save results to new_result4/2023-01-16-06_38_04_200.csv
+***********************day2023_01_16************************
+SummEval 798
+***********************day2023_01_16************************
+SummEval 798
